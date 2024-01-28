@@ -1,0 +1,1 @@
+# Kotlin files are the most relevant ones for the Android app, all others in an Android Development app are massive files of Android Config information however the actual functionality and design comes from the provided code
